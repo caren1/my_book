@@ -1,2 +1,3 @@
 zmieniona
 >>>>>>> 1.1
+dodałem sobie trzecio linie
