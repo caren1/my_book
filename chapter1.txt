@@ -1,3 +1,4 @@
 Rozdzia≈Ç I - Zadanie 3 
 Dodaje tekst do rozdziaàu I 
 zmieniamznowuwC1 
+dodaje na branchu v1.3 
