@@ -1,1 +1,3 @@
-no i do trzeciego tez dodaje 
+
+noizmieniam 
+>>>>>>> 1.1
